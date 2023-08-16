@@ -45,15 +45,6 @@
       ]
     },
     {
-      "question": "Which data structure uses the Last-In-First-Out (LIFO) principle?",
-      "options": [
-        {"text": "Queue", "isCorrect": false},
-        {"text": "Stack", "isCorrect": true},
-        {"text": "Array", "isCorrect": false},
-        {"text": "Linked List", "isCorrect": false}
-      ]
-    },
-    {
       "question": "What is the main purpose of a constructor function in JavaScript?",
       "options": [
         {"text": "To define a new class", "isCorrect": false},
