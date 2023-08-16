@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What does HTML stand for?",
+      "options": [
+        {"text": "Hyper Text Markup Language", "isCorrect": true},
+        {"text": "High Text Markup Language", "isCorrect": false},
+        {"text": "Hyper Transfer Markup Language", "isCorrect": false},
+        {"text": "Hyperlink and Text Markup Language", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "Which of the following is a CSS framework?",
+      "options": [
+        {"text": "React", "isCorrect": false},
+        {"text": "Angular", "isCorrect": false},
+        {"text": "Vue", "isCorrect": false},
+        {"text": "Bootstrap", "isCorrect": true}
+      ]
+    },
+    {
+      "question": "What does API stand for?",
+      "options": [
+        {"text": "Application Programming Interface", "isCorrect": true},
+        {"text": "Advanced Program Integration", "isCorrect": false},
+        {"text": "Automated Programming Interface", "isCorrect": false},
+        {"text": "Application Process Interaction", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "In JavaScript, which keyword is used to declare a variable?",
+      "options": [
+        {"text": "var", "isCorrect": true},
+        {"text": "let", "isCorrect": false},
+        {"text": "const", "isCorrect": false},
+        {"text": "variable", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "What is the result of 9 + '9' in JavaScript?",
+      "options": [
+        {"text": "99", "isCorrect": true},
+        {"text": "18", "isCorrect": false},
+        {"text": "NaN", "isCorrect": false},
+        {"text": "Error", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "Which data structure uses the Last-In-First-Out (LIFO) principle?",
+      "options": [
+        {"text": "Queue", "isCorrect": false},
+        {"text": "Stack", "isCorrect": true},
+        {"text": "Array", "isCorrect": false},
+        {"text": "Linked List", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "What is the main purpose of a constructor function in JavaScript?",
+      "options": [
+        {"text": "To define a new class", "isCorrect": false},
+        {"text": "To create instances of objects", "isCorrect": true},
+        {"text": "To perform mathematical operations", "isCorrect": false},
+        {"text": "To handle exceptions", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "Which programming language is often used for web development and server-side scripting?",
+      "options": [
+        {"text": "Java", "isCorrect": false},
+        {"text": "Python", "isCorrect": false},
+        {"text": "PHP", "isCorrect": true},
+        {"text": "C#", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "What does SQL stand for?",
+      "options": [
+        {"text": "Structured Query Language", "isCorrect": true},
+        {"text": "Simple Query Language", "isCorrect": false},
+        {"text": "Server Query Language", "isCorrect": false},
+        {"text": "Standard Query Language", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "In Python, how do you create a comment?",
+      "options": [
+        {"text": "// This is a comment", "isCorrect": false},
+        {"text": "/* This is a comment */", "isCorrect": false},
+        {"text": "# This is a comment", "isCorrect": true},
+        {"text": "<!-- This is a comment -->", "isCorrect": false}
+      ]
+    }
+  ]
+  
